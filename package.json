@@ -1,13 +1,13 @@
 {
   "name": "boilerplate",
-  "version": "1.0.0",
-  "description": "Simple react app",
+  "version": "3.0.0",
+  "description": "ES6 Classes",
   "main": "index.js",
   "scripts": {
     "test": "karma start",
     "start": "node server.js"
   },
-  "author": "Andrew Mead",
+  "author": "Rent Sidon",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.9.1",
@@ -25,7 +25,7 @@
     "babel-preset-stage-0": "^6.5.0",
     "css-loader": "^0.23.1",
     "expect": "^1.14.0",
-    "foundation-sites": "^6.2.0",
+    "foundation-sites": "6.2.0",
     "jquery": "^2.2.1",
     "karma": "^0.13.22",
     "karma-chrome-launcher": "^0.2.2",
@@ -38,6 +38,6 @@
     "sass-loader": "^3.1.2",
     "script-loader": "^0.6.1",
     "style-loader": "^0.13.0",
-    "webpack": "^1.12.13"
+    "webpack": "^1.15.0"
   }
 }
